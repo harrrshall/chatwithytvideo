@@ -14,7 +14,7 @@ Before running the script, make sure you have the following:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/harrrshall/chatwithytvideo/tree/main
+git clone https://github.com/harrrshall/chatwithytvideo
 ```
 
 2. Navigate to the project directory:
